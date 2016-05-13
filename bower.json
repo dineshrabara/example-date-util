@@ -1,0 +1,26 @@
+{
+  "name": "example date-util",
+  "authors": [
+    "Dinesh Rabara <dinesh.rabara@gmail.com>"
+  ],
+  "description": "example date-util",
+  "main": "index.html",
+  "keywords": [
+    "example",
+    "date-util"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "date-util": "*",
+    "polymer": "~1.4.0"
+  }
+}
